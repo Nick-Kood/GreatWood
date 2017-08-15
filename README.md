@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Greatwood Capital Management
 
 You can use the [editor on GitHub](https://github.com/Nick-Kood/GreatWood/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
